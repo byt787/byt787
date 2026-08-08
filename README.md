@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/sec_about.png" width="55%">
+  <img src="./sec_about.png" width="55%">
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/sec_skills.png" width="55%">
+  <img src="./sec_skills.png" width="55%">
 </p>
 
 <div align="center">
@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/sec_stats.png" width="55%">
+  <img src="./sec_stats.png" width="55%">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/sec_projects.png" width="55%">
+  <img src="./sec_projects.png" width="55%">
 </p>
 
 <div align="center">
@@ -64,7 +64,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/sec_connect.png" width="55%">
+  <img src="./sec_connect.png" width="55%">
 </p>
 
 <div align="center">
