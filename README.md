@@ -44,7 +44,6 @@ web dev • cat person • always tinkering with something new
 
 <br><br>
 
-### 🎰 lucky spin
 
 <img src="./slot_machine.gif" width="260">
 
