@@ -1,9 +1,9 @@
 <div align="center">
   <img src="./cat_heart.gif" width="90">
 
-# hi, i'm byt787 🌸
+# hi, i'm milka_161 🌸
 
-web dev • cat person • always tinkering with something new
+web dev • cat person • music_lover
 
 </div>
 
@@ -18,12 +18,12 @@ web dev • cat person • always tinkering with something new
 * 🌙 web developer building things for fun
 * 🐱 certified cat person
 * 🎨 into art + design on the side
-* ✨ always tinkering with something new
+* ☭ Communist :3
 
     </td>
     <td valign="top" width="50%">
 
-### ⚙️ skills
+### my skills
 
 <img src="https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=6B3A6B" /><br> <img src="https://img.shields.io/badge/CSS3-ffb6c1?style=for-the-badge&logo=css3&logoColor=6B3A6B" /><br> <img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=6B3A6B" />
 
