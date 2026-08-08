@@ -3,7 +3,7 @@
 
 # hi, i'm milka_161 🌸
 
-web dev • cat person • always tinkering with something new
+web dev • cat person • music lover
 
 </div>
 
@@ -11,7 +11,6 @@ web dev • cat person • always tinkering with something new
 - 🌙 web developer building things for fun
 - 🐱 certified cat person
 - 🎨 into art + design on the side
-- ✨ always tinkering with a new project
 
 ### ⚙️ skills
 <img src="https://img.shields.io/badge/HTML5-FFCDE4?style=for-the-badge&logo=html5&logoColor=6B3A6B" />
@@ -29,5 +28,5 @@ web dev • cat person • always tinkering with something new
 <!-- <a href="LINK"><img src="https://img.shields.io/badge/Instagram-FFCDE4?style=for-the-badge&logo=instagram&logoColor=6B3A6B"/></a> -->
 
 <div align="center">
-<sub>˚₊· ͟͟͞͞➳❥ thanks for stopping by ‧₊˚ ⋅</sub>
+<sub>˚₊· thanks for stopping by ‧₊˚ ⋅</sub>
 </div>
