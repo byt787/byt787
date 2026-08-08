@@ -43,6 +43,13 @@ web dev • cat person • always tinkering with something new
 <img src="https://streak-stats.demolab.com/?user=byt787&hide_border=true&background=3a1f30&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffe4ec&border_radius=15" width="420" />
 
 <br><br>
+<div align="center">
+  <a href="https://github.com/byt787/just_art">
+    <img src="https://img.shields.io/badge/🎨_my_art-ffb6c1?style=for-the-badge&logoColor=6B3A6B" alt="My Art">
+  </a>
+  <br>
+  <sub>i might post some of my art here ♡</sub>
+</div>
 
 
 <img src="./slot_machine.gif" width="260">
