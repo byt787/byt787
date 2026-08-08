@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./cat_heart.gif" width="90">
 
-# hi, i'm byt787 🌸
+# hi, i'm milka_161 🌸
 
 web dev • cat person • always tinkering with something new
 
