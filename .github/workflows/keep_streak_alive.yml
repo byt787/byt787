@@ -1,0 +1,21 @@
+name: keep streak alive manual
+on:
+  workflow_dispatch:         # nur manuell auslösbar über den "Run workflow" Button, kein cron
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: update streak file
+        run: |
+          echo "update: $(date -u +'%Y-%m-%d %H:%M:%S UTC') | id: $RANDOM" >> streak.txt
+
+      - name: commit and push
+        run: |
+          git config user.name "streak-bot"
+          git config user.email "actions@github.com"
+          git add streak.txt
+          git diff --staged --quiet || git commit -m "chore: streak update 🐾"
+          git push
