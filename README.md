@@ -41,8 +41,8 @@
 
 ### ✨ github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=byt787&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff4fa3&icon_color=ff4fa3&text_color=c2185b&ring_color=ff4fa3" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt787&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff4fa3&text_color=c2185b&langs_count=8" width="38%" />
+<img src="https://github-stats-extended.vercel.app/api?username=byt787&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff4fa3&icon_color=ff4fa3&text_color=c2185b&ring_color=ff4fa3" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=byt787&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff4fa3&text_color=c2185b&langs_count=8" width="38%" />
 
 <br><br>
 
@@ -51,10 +51,6 @@
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=byt787&bg_color=fff0f7&color=ff4fa3&line=ff4fa3&point=c2185b&hide_border=true&area=true" width="90%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=byt787&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" />
 
 </div>
 
@@ -92,18 +88,6 @@
 </a>
 <br>
 <sub>here are my first python projects ♡</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🌙 find me here
-
-<a href="#"><img src="https://img.shields.io/badge/Instagram-ff8fc7?style=for-the-badge&logo=instagram&logoColor=ffffff" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Spotify-ff8fc7?style=for-the-badge&logo=spotify&logoColor=ffffff" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-ff8fc7?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>
 
 </div>
 
