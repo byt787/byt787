@@ -42,7 +42,7 @@
 ### ✨ github stats
 
 <img src="https://github-stats-extended.vercel.app/api?username=byt787&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff4fa3&icon_color=ff4fa3&text_color=c2185b&ring_color=ff4fa3" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=byt787&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff4fa3&text_color=c2185b&langs_count=8&cache_seconds=21600" width="38%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=byt787&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff4fa3&text_color=c2185b&langs_count=8&v=2" width="38%" />
 
 <br><br>
 
