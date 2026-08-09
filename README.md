@@ -41,16 +41,16 @@
 
 ### ✨ github stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=byt787&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff4fa3&icon_color=ff4fa3&text_color=c2185b&ring_color=ff4fa3" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=byt787&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff4fa3&text_color=c2185b&langs_count=8&v=2" width="38%" />
+<img src="https://github-stats-extended.vercel.app/api?username=byt787&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&ring_color=ff79c6" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=byt787&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&langs_count=8&v=2" width="38%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=byt787&hide_border=true&background=fff0f7&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3&sideLabels=c2185b&sideNums=c2185b&dates=c9789e&border_radius=15" width="420" />
+<img src="https://streak-stats.demolab.com/?user=byt787&hide_border=true&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=f8f8f2&sideNums=f8f8f2&dates=c9c9d1&border_radius=15" width="420" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=byt787&bg_color=fff0f7&color=ff4fa3&line=ff4fa3&point=c2185b&hide_border=true&area=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byt787&bg_color=0d1117&color=f8f8f2&line=ff79c6&point=ff79c6&hide_border=true&area=true" width="90%" />
 
 </div>
 
