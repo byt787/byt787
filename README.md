@@ -8,9 +8,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/status-online-ffb6c1?style=for-the-badge&labelColor=3a1f30" />
-<img src="https://img.shields.io/badge/mood-creative-ffb6c1?style=for-the-badge&labelColor=3a1f30" />
-<img src="https://img.shields.io/badge/coffee-required-ffb6c1?style=for-the-badge&labelColor=3a1f30" />
 
 </div>
 
@@ -29,9 +26,8 @@
 - 🌙 web developer building things for fun
 - 🐱 certified cat person
 - 🎨 into art + design on the side
-- 🎧 always got music on in the background
 - ☭ Communist :3
-- ⋆｡‧˚ʚ still learning, still vibing ɞ˚‧｡⋆
+- ⋆｡‧˚ʚ still learning ɞ˚‧｡⋆
 
     </td>
     <td valign="top" width="50%">
@@ -53,10 +49,6 @@
 
 ### ✨ github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=byt787&show_icons=true&hide_border=true&bg_color=3a1f30&title_color=ffb6c1&icon_color=ffb6c1&text_color=ffe4ec&ring_color=ffb6c1" width="410" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt787&layout=compact&hide_border=true&bg_color=3a1f30&title_color=ffb6c1&text_color=ffe4ec&langs_count=6" width="330" />
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=byt787&hide_border=true&background=3a1f30&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffe4ec&border_radius=15" width="420" />
 
