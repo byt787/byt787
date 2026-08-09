@@ -54,10 +54,10 @@ web dev • cat person • music lover
 <br>
 <div align="center">
   <a href="https://github.com/byt787/python.projects">
-    <img src="https://img.shields.io/badge/Python_Projects-ffb6c1?style=for-the-badge&logoColor=6B3A6B" alt="My Python Projects">
+    <img src="https://img.shields.io/badge/My_Python_:3-ffb6c1?style=for-the-badge&logoColor=6B3A6B" alt="My Python Projects ^-^">
   </a>
   <br>
-  <sub>i might post some of my art here ♡</sub>
+  <sub>here are my first python projects ♡</sub>
 </div>
 
 <img src="./slot_machine.gif" width="260">
