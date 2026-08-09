@@ -46,6 +46,9 @@
 
 <br><br>
 <img src="https://streak-stats.demolab.com/?user=byt787&hide_border=true&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&currStreakNum=f8f8f2&sideLabels=f8f8f2&sideNums=f8f8f2&dates=c9c9d1&border_radius=15" width="420" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byt787&bg_color=0d1117&color=f8f8f2&line=ff79c6&point=ff79c6&hide_border=true&area=true" width="90%" />
 
 </div>
 
