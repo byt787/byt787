@@ -3,7 +3,7 @@
 
 # hi, i'm milka_161 🌸
 
-web dev • cat person • music_lover
+web dev • cat person • music lover
 
 </div>
 
