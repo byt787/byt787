@@ -83,7 +83,7 @@
 thanks for stopping by ‧₊˚ ⋅
 
 <p align="center">
-  plss buy me a coffee :3 ♡
+  plss buy me a coffee :3 ♡ <br>
   I know you cant do it because im not 18 yet :c 
 </p>
 
