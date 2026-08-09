@@ -1,8 +1,17 @@
 name: keep streak alive
-
 on:
   schedule:
-    - cron: '30 12 * * *'   # täglich um 12:30 UTC
+    # 10 trigger punkte, grob alle ~2,4h ueber den tag verteilt (UTC!)
+    - cron: '5 1 * * *'
+    - cron: '15 4 * * *'
+    - cron: '25 6 * * *'
+    - cron: '35 8 * * *'
+    - cron: '45 10 * * *'
+    - cron: '5 13 * * *'
+    - cron: '15 15 * * *'
+    - cron: '25 17 * * *'
+    - cron: '35 19 * * *'
+    - cron: '45 21 * * *'
   workflow_dispatch:         # manuell auslösbar über den "Run workflow" Button
 
 jobs:
@@ -11,14 +20,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: random delay
+        run: |
+          # zufaellige wartezeit zwischen 0 und 90 minuten (in sekunden)
+          # damit nicht jeder commit exakt auf die minute faellt
+          DELAY=$((RANDOM % 5400))
+          echo "warte $DELAY sekunden vor dem commit"
+          sleep $DELAY
+
       - name: update streak file
         run: |
-          echo "last update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" > streak.txt
+          echo "update: $(date -u +'%Y-%m-%d %H:%M:%S UTC') | id: $RANDOM" >> streak.txt
 
       - name: commit and push
         run: |
           git config user.name "streak-bot"
           git config user.email "actions@github.com"
           git add streak.txt
-          git diff --staged --quiet || git commit -m "chore: daily streak update 🐾"
+          git diff --staged --quiet || git commit -m "chore: streak update 🐾"
           git push
