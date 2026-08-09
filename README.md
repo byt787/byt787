@@ -45,11 +45,6 @@
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=byt787&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&langs_count=8&v=2" width="38%" />
 
 <br><br>
-
-<img src="https://streak-stats.demolab.com/?user=byt787&hide_border=true&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=f8f8f2&sideNums=f8f8f2&dates=c9c9d1&border_radius=15" width="420" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=byt787&hide_border=true&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&currStreakNum=f8f8f2&sideLabels=f8f8f2&sideNums=f8f8f2&dates=c9c9d1&border_radius=15" width="420" />
 
 </div>
