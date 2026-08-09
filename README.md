@@ -83,7 +83,9 @@
 thanks for stopping by ‧₊˚ ⋅
 
 <br>
-
+plss buy me a coffee :3‧₊
+<a href="buymeacoffee.com/milka_161" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=byt787&style=for-the-badge&color=ff8fc7&labelColor=ff4fa3" alt="profile views"/>
 
 <br><br>
