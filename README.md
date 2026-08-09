@@ -26,7 +26,7 @@ web dev • cat person • music_lover
 ### my skills
 
 <img src="https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=6B3A6B" /><br> <img src="https://img.shields.io/badge/CSS3-ffb6c1?style=for-the-badge&logo=css3&logoColor=6B3A6B" /><br> <img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=6B3A6B" />
-
+<br> <img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=python&logoColor=6B3A6B" />
 ```
 </td>
 ```
