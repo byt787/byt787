@@ -18,7 +18,7 @@ web dev • cat person • music_lover
 * 🌙 web developer building things for fun
 * 🐱 certified cat person
 * 🎨 into art + design on the side
-* Im just lerning btw ^-^
+* Im just learning btw ^-^
 * ☭ Communist :3
 
     </td>
