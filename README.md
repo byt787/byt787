@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/HTML5-ff8fc7?style=for-the-badge&logo=html5&logoColor=ffffff" /><br>
 <img src="https://img.shields.io/badge/JavaScript-ff8fc7?style=for-the-badge&logo=javascript&logoColor=ffffff" /><br>
 <img src="https://img.shields.io/badge/Python-ff8fc7?style=for-the-badge&logo=python&logoColor=ffffff" /><br>
+<img src="https://img.shields.io/badge/Being%20annoying-ff8fc7?style=for-the-badge&logo=cake&logoColor=ffffff" /><br>
 <img src="https://img.shields.io/badge/Git-ff8fc7?style=for-the-badge&logo=git&logoColor=ffffff" />
 
 </td>
